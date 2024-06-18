@@ -6,7 +6,7 @@
 
 **Telegram:** @Zod1ak1_2
 
-[**LinkedIn**](https://www.linkedin.com/in/siarhei-marchanka/)
+[**LinkedIn**](https://www.linkedin.com/in/siarhei-marchanka-88b753314/)
 
 [**GitHub**](https://github.com/SeregaMarchenko)
 
