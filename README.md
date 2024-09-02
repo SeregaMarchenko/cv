@@ -33,6 +33,7 @@ I am a junior backend developer from Minsk. At the moment I am studying at the B
 
 - Belarusian State University of Informatics and Radioelectronics
   - Information technology and control in technical system (in progress)
-- Udemy
+- TeachMeSkills
   - [Full course Java developer ](https://teachmeskills.by/kursy/obuchenie-java-online)
+  - [sertificate](Siarhei Marchanka.pdf)
   
