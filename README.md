@@ -17,6 +17,7 @@ I am a junior backend developer from Minsk. At the moment I am studying at the B
 ## Skills
 
 - Java 17
+- JavaEE
 - Spring (Core,MVS,Boot,Security,AOP,Validation,Data)
 - Hibernate/JPA
 - PostgreSQL
